@@ -1,0 +1,7 @@
+tmp
+.idea
+bin
+*.iml
+.DS_Store
+*.html
+deploy

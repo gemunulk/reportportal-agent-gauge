@@ -1,0 +1,21 @@
+{
+    "id" : "reportportal",
+    "version" : "0.0.1",
+    "name" : "Report Portal Gauge Plugin",
+    "description" : "Gauge to Report Portal execution progress reporter",
+    "install": {
+        "windows": [],
+        "linux": [],
+        "darwin": []
+    },
+    "command" : {
+        "windows" : ["bin/reportportal"],
+        "linux" : ["bin/reportportal"],
+        "darwin" : ["bin/reportportal"]
+    },
+    "scope" : ["Execution"],
+    "gaugeVersionSupport": {
+        "minimum": "0.8.5",
+        "maximum": ""
+    }
+}
